@@ -1,4 +1,4 @@
-## Hi i'm Panagiotis
+## Hi i'm Panagiotis (./Banner.png)
 
 🏫 currently learning to code
 
