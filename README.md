@@ -2,7 +2,7 @@
 
 🏫 currently learning to code
 
-😁 doing YT videos with my friends                                            ![Hi i'm Panagiotis](./Discord.gif)
+😁 doing YT videos with my friends                                            ![Hi i'm Panagiotis](./Discord)
 
 😅 like to fork things in github
 
