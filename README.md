@@ -1,6 +1,4 @@
-<div id="header" align="center">
-
-  [Hi i'm Panagiotis](./Banner.png)
+[Hi i'm Panagiotis](./Banner.png)
 
 🏫 currently learning to code
 
