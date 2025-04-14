@@ -1,5 +1,6 @@
 <h1 align="center">
 (./github-header-image.png)
+<img align="right" src="https://github.com/Panagiotissarr/Panagiotissarr/blob/main/github-header-image.png" width = 250px>
 
 
 <h1 align="center"><b>Hi , I'm Panagiotis</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
