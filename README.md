@@ -3,15 +3,16 @@
 
 <p align="center">Hi I'm Panagiotis</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
+
+<br>
+<h1 align="center"><b>About Me</b><img width="15"></h1>
+<img width="10"></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&width=435&lines=%F0%9F%8F%AB+Curently+Learnig+To+Code;%F0%9F%A6%87+Also+Know+How+to+Batch" alt="Typing SVG" /></a>
 </p>
 
 
 <br>
 
-<div></div>
-<h1 align="center"><b>About Me</b><img width="15"></h1>
-<img width="10"></h1>
 
 	
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
