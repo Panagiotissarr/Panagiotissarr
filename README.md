@@ -9,6 +9,7 @@
 
 <br>
 
+<div>
 
 <h1 align="center"><b>About Me</b><img width="15"></h1>
 
