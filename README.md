@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<h1 align="center">Hi I'm Panagiotis</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<p align="center">Hi I'm Panagiotis</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&width=435&lines=%F0%9F%8F%AB+Curently+Learnig+To+Code;%F0%9F%A6%87+Also+Know+How+to+Batch" alt="Typing SVG" /></a>
 </p>
