@@ -9,10 +9,8 @@
 
 <br>
 
-<div>
-
 <h1 align="center"><b>About Me</b><img width="15"></h1>
-
+<img width="10"></h1>
 
 	
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
