@@ -1,81 +1,123 @@
-<h1 align="center">
-<img align="right" src="https://github.com/Panagiotissarr/Panagiotissarr/blob/main/github-header-image.png" width = 650>
+<div align="center">
 
-</p>
-<p align="center">Hi I'm Panagiotis</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<a id="readme-top"></a>
 
 
-<br>
-<h1 align="center"><b>About Me</b><img width="15"></h1>
-<img width="10"></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&width=435&lines=%F0%9F%8F%AB+Curently+Learnig+To+Code;%F0%9F%A6%87+Also+Know+How+to+Batch" alt="Typing SVG" /></a>
-</p>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://avatars.githubusercontent.com/u/154690308?v=4">
+    <img src="https://avatars.githubusercontent.com/u/154690308?v=4" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Panagiotis</h3>
+
+  <p align="center">
+    Hello I'm Panagiotis!
+    <br />
+    <a href="https://panagiotissarr.github.io/"><strong>Explore My Website »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View My Search Enginepa</a>
+    &middot;
+    <a href="https://panagiotissarr.github.io/edc-setup.html">See My EDC (It's Crappy)</a>
+    &middot;
+    <a href="https://github.com/othneildrew/Best-README-Template">Get The Readme Template</a>
+  </p>
+</div>
 
 
-<br>
 
 
-	
-<br>
 
-- I'm 10 Years Old
-- I Learn Code Every Summer And When I Have Time Now For 3 Years Now
-- [Personal Site](https://panagiotis2211.wordpress.com)
 
-<br><br>
+<!-- ABOUT THE PROJECT -->
+## About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+Hey I'm Panagiotis I'm 10 Years Old And I like Computers And Math
+Name 	Panagiotis Sarris
+Age 	10
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="center">
 
+
+### Languages | Tools and Softwares
+
+This section lists All The Languages Tools and Software I Use
+
+*
 - **Languages**:
     
-    ![Batch](https://img.shields.io/badge/_-Batch-_?style=flat-square&logo=bat&color=3d2817)
-    ![Html](https://img.shields.io/badge/_-html-_?style=flat-square&color=e44d26)
-    ![Python](https://img.shields.io/badge/_-python-_?style=flat-square&logo=python&color=ffda39)
+   
+ ![Batch](https://img.shields.io/badge/_-Batch-_?style=flat-square&logo=bat&color=3d2817)  
+ ![Html](https://img.shields.io/badge/_-html-_?style=flat-square&color=e44d26)
+ ![Python](https://img.shields.io/badge/_-python-_?style=flat-square&logo=python&color=ffda39)
 
-\
     
 <br>
 
 - **Softwares and Tools**:
 
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Windows](https://img.shields.io/badge/_-Windows-_?style=flat-square&color=29b5ff)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Arch_-Linux-blue?style=flat-square&logo=Arch%20Linux)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Perplexity](https://img.shields.io/badge/Perplexity-black?logo=perplexity&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/Gemini-white?logo=google-gemini&logoColor=blue)
+
 
 </p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Make A Search Engine
+- [x] Install Linux
+- [x] Install Arch
+- [x] Update Readme.md
+- [ ] (Coming Soon)
+- [ ] (Coming Soon)
+- [ ] (Coming Soon)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+  <!-- Tools -->
+## Tools Used To Make The README.md
+
+Huge Thanks To [https://github.com/othneildrew](othneildrew) For The README.md Template
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+* 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+  <!-- SOCIAL -->
+## Social Links
+
+Panagiotis Sarris - [@Panagiotis0615](https://x.com/Panagiotis0615) - Panagiotis-2015@outlook.com.gr
+
+Pinterest: [Pinterest](https://www.pinterest.com/panagiotis2211/)
+
+
+## Github Stats </b>
 <br>
-
-<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <a href="https://github.com/Panagiotissarr/">
   <img src="https://github-readme-stats.vercel.app/api?username=Panagiotissarr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Panagiotissarr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-
-<div align='center'>
