@@ -19,7 +19,7 @@
     <a href="https://panagiotissarr.github.io/"><strong>Explore My Website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View My Search Enginepa</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View My Search Engine</a>
     &middot;
     <a href="https://panagiotissarr.github.io/edc-setup.html">See My EDC (It's Crappy)</a>
     &middot;
