@@ -79,9 +79,9 @@ This section lists All The Languages Tools and Software I Use
 - [x] Install Linux
 - [x] Install Arch
 - [x] Update Readme.md
-- [ ] (Coming Soon)
-- [ ] (Coming Soon)
-- [ ] (Coming Soon)
+- [ ] Fix Clound
+- [ ] Make Cloud Public
+- [ ] Make Clouds Sorce Code Open
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
