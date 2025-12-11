@@ -80,8 +80,8 @@ This section lists All The Languages Tools and Software I Use
 - [x] Install Arch
 - [x] Update Readme.md
 - [ ] Fix Clound
-- [ ] Make Cloud Public
-- [ ] Make Clouds Sorce Code Open
+- [X] Make Cloud Public
+- [x] Make Clouds Sorce Code Open
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
