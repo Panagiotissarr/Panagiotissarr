@@ -16,12 +16,12 @@
   <p align="center">
     Hello I'm Panagiotis!
     <br />
-    <a href="https://panagiotissarr.github.io/"><strong>Explore My Website »</strong></a>
+    <a href="https://sarris.vercel.app/"><strong>Explore My Website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View My Search Engine</a>
+    <a href="https://panagiotissarr.github.io/Project-Cearch">View My Search Engine</a>
     &middot;
-    <a href="https://panagiotissarr.github.io/edc-setup.html">See My EDC (It's Crappy)</a>
+    <a href="https://sarris.vercel.app/edc-setup.html">See My EDC</a>
     &middot;
     <a href="https://github.com/othneildrew/Best-README-Template">Get The Readme Template</a>
   </p>
@@ -61,9 +61,7 @@ This section lists All The Languages Tools and Software I Use
 - **Softwares and Tools**:
 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Arch_-Linux-blue?style=flat-square&logo=Arch%20Linux)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Perplexity](https://img.shields.io/badge/Perplexity-black?logo=perplexity&logoColor=white)
   ![Google Gemini](https://img.shields.io/badge/Gemini-white?logo=google-gemini&logoColor=blue)
 
 
@@ -72,16 +70,19 @@ This section lists All The Languages Tools and Software I Use
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- TO-DO -->
+## To do
 
 - [x] Make A Search Engine
-- [x] Install Linux
-- [x] Install Arch
 - [x] Update Readme.md
-- [ ] Fix Clound
+- [x] Fix Clound
 - [X] Make Cloud Public
 - [x] Make Clouds Sorce Code Open
+- [x] Make Cloud Labs
+- [ ] Make Cloud Colab
+- [ ] (Soon!)
+- [ ] (Soon!)
+- [ ] (Soon!)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,14 +111,6 @@ Huge Thanks To [https://github.com/othneildrew](othneildrew) For The README.md T
   <!-- SOCIAL -->
 ## Social Links
 
-Panagiotis Sarris - [@Panagiotis0615](https://x.com/Panagiotis0615) - Panagiotis-2015@outlook.com.gr
+Panagiotis Sarris - [@Panagiotis0615](https://x.com/Panagiotis0615) 
 
 Pinterest: [Pinterest](https://www.pinterest.com/panagiotis2211/)
-
-
-## Github Stats </b>
-<br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<a href="https://github.com/Panagiotissarr/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Panagiotissarr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Panagiotissarr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
