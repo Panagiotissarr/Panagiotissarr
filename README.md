@@ -16,12 +16,12 @@
   <p align="center">
     Hello I'm Panagiotis!
     <br />
-    <a href="https://sarris.vercel.app/"><strong>Explore My Website »</strong></a>
+    <a href="https://sarris.dev/"><strong>Explore My Website »</strong></a>
     <br />
     <br />
     <a href="https://panagiotissarr.github.io/Project-Cearch">View My Search Engine</a>
     &middot;
-    <a href="https://sarris.vercel.app/edc-setup.html">See My EDC</a>
+    <a href="https://sarris.dev/edc-setup">See My EDC</a>
     &middot;
     <a href="https://github.com/othneildrew/Best-README-Template">Get The Readme Template</a>
   </p>
