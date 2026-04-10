@@ -73,13 +73,6 @@ This section lists All The Languages Tools and Software I Use
 <!-- TO-DO -->
 ## To do
 
-- [x] Make A Search Engine
-- [x] Update Readme.md
-- [x] Fix Clound
-- [X] Make Cloud Public
-- [x] Make Clouds Sorce Code Open
-- [x] Make Cloud Labs
-- [ ] Make Cloud Colab
 - [ ] (Soon!)
 - [ ] (Soon!)
 - [ ] (Soon!)
