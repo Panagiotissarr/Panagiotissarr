@@ -96,12 +96,3 @@ Huge Thanks To [https://github.com/othneildrew](othneildrew) For The README.md T
 * 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-  <!-- SOCIAL -->
-## Social Links
-
-Panagiotis Sarris - [@Panagiotis0615](https://x.com/Panagiotis0615) 
-
-Pinterest: [Pinterest](https://www.pinterest.com/panagiotis2211/)
