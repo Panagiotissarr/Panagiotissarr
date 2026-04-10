@@ -32,12 +32,10 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT ME -->
 ## About Me
 
 Hey I'm Panagiotis I'm 10 Years Old And I like Computers And Math
-Name 	Panagiotis Sarris
-Age 	10
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
