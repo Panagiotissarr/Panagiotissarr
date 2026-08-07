@@ -67,19 +67,6 @@ This section lists All The Languages Tools and Software I Use
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- TO-DO -->
-## To do
-
-- [ ] (Soon!)
-- [ ] (Soon!)
-- [ ] (Soon!)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
   <!-- Tools -->
 ## Tools Used To Make The README.md
 
