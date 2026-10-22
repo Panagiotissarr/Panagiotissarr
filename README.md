@@ -1,85 +1,25 @@
 <div align="center">
 
-<a id="readme-top"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Pana"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://avatars.githubusercontent.com/u/154690308?v=4">
-    <img src="https://avatars.githubusercontent.com/u/154690308?v=4" alt="Logo" width="80" height="80">
-  </a>
+<a href="https://github.com/Panagiotissarr/site"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-site-dark.svg"><img src="assets/project-site-light.svg" width="49%" alt="site"></picture></a>&nbsp;<a href="https://github.com/Panagiotissarr/Cloud"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-cloud-dark.svg"><img src="assets/project-cloud-light.svg" width="49%" alt="Cloud"></picture></a>
 
-  <h3 align="center">Panagiotis</h3>
+<a href="https://github.com/Panagiotissarr/Scanners"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-scanners-dark.svg"><img src="assets/project-scanners-light.svg" width="49%" alt="Scanners"></picture></a>&nbsp;<a href="https://github.com/Panagiotissarr/bibata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bibata-dark.svg"><img src="assets/project-bibata-light.svg" width="49%" alt="bibata"></picture></a>
 
-  <p align="center">
-    Hello I'm Panagiotis!
-    <br />
-    <a href="https://sarris.dev/"><strong>Explore My Website »</strong></a>
-    <br />
-    <br />
-    <a href="https://panagiotissarr.github.io/Project-Cearch">View My Search Engine</a>
-    &middot;
-    <a href="https://sarris.dev/edc-setup">See My EDC</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template">Get The Readme Template</a>
-  </p>
+<a href="https://github.com/Panagiotissarr/obby-v2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-obby-v2-dark.svg"><img src="assets/project-obby-v2-light.svg" width="49%" alt="obby-v2"></picture></a>&nbsp;<a href="https://github.com/Panagiotissarr/Files"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-files-dark.svg"><img src="assets/project-files-light.svg" width="49%" alt="Files"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://sarris.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Panagiotissarr?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=Panagiotissarr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
-
-
-
-
-
-
-<!-- ABOUT ME -->
-## About Me
-
-Hey I'm Panagiotis I'm 10 Years Old And I like Computers And Math
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Languages | Tools and Softwares
-
-This section lists All The Languages Tools and Software I Use
-
-*
-- **Languages**:
-    
-   
- ![Batch](https://img.shields.io/badge/_-Batch-_?style=flat-square&logo=bat&color=3d2817)  
- ![Html](https://img.shields.io/badge/_-html-_?style=flat-square&color=e44d26)
- ![Python](https://img.shields.io/badge/_-python-_?style=flat-square&logo=python&color=ffda39)
-
-    
-<br>
-
-- **Softwares and Tools**:
-
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Google Gemini](https://img.shields.io/badge/Gemini-white?logo=google-gemini&logoColor=blue)
-
-
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-  <!-- Tools -->
-## Tools Used To Make The README.md
-
-Huge Thanks To [https://github.com/othneildrew](othneildrew) For The README.md Template
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-* 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

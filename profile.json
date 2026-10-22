@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "login": "Panagiotissarr",
+  "seed": "#484FE3",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "socials"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Pana",
+    "subtitle": "I am the best vibe coder lad.",
+    "typing": true,
+    "avatarShape": "sunny",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "The Universe"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:cplusplusbuilder",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:c",
+            "label": "C"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "site",
+      "Cloud",
+      "Scanners",
+      "bibata",
+      "obby-v2",
+      "Files"
+    ],
+    "overrides": {
+      "pixel-garden": {
+        "text": ""
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/its_sarris"
+      },
+      {
+        "icon": "brand:reddit",
+        "url": "https://"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://sarris.dev",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/Panagiotissarr?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
