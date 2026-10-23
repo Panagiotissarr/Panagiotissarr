@@ -1,5 +1,5 @@
 {
- "key": "ccb00bad",
+ "key": "9eef4f0c",
  "stars": 3,
  "contributions": 536,
  "repos": 33,
@@ -133,9 +133,13 @@
    {
     "c": 1,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null
   ]
  ],
