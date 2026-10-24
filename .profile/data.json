@@ -1,14 +1,10 @@
 {
- "key": "8feec02a",
+ "key": "fd947529",
  "stars": 3,
- "contributions": 536,
- "repos": 33,
+ "contributions": 525,
+ "repos": 32,
  "followers": 3,
  "languages": [
-  [
-   "C++",
-   4583585
-  ],
   [
    "Lua",
    3510202
@@ -16,10 +12,6 @@
   [
    "JavaScript",
    1754321
-  ],
-  [
-   "C",
-   1014974
   ],
   [
    "TypeScript",
@@ -30,8 +22,16 @@
    677793
   ],
   [
-   "C#",
-   330256
+   "CSS",
+   217665
+  ],
+  [
+   "Python",
+   84726
+  ],
+  [
+   "Rust",
+   74852
   ]
  ],
  "days": [
@@ -141,14 +141,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 24,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 5
  },
  "pins": [
@@ -285,15 +285,6 @@
    "fork": true,
    "stars": 0,
    "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "PanaM",
-   "url": "https://github.com/Panagiotissarr/PanaM",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "C++",
    "topics": []
   },
   {
