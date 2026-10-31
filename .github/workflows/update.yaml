@@ -1,3 +1,4 @@
+
 name: Expressive Profile
 
 on:
@@ -18,6 +19,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: metawka/expressive-profile@v1
         with:
           token: ${{ secrets.PROFILE_TOKEN || github.token }}
+
+      - name: Clean generated README elements
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+
+          patterns = [
+              r'<a href="https://metawka\.github\.io/expressive-profile/\?from=Panagiotissarr"><picture>.*?</picture></a>',
+              r'<picture><source media="\(prefers-color-scheme: dark\)" srcset="assets/streak-dark\.svg"><img src="assets/streak-light\.svg" width="100%" alt="Streak"></picture>',
+          ]
+
+          for pattern in patterns:
+              content = re.sub(pattern, "", content, flags=re.DOTALL)
+
+          readme.write_text(content, encoding="utf-8")
+          PY
+
+      - name: Commit cleanup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: clean generated README elements"
+          git push
