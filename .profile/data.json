@@ -1,8 +1,8 @@
 {
- "key": "f19594da",
+ "key": "fb7de097",
  "stars": 3,
- "contributions": 529,
- "repos": 32,
+ "contributions": 525,
+ "repos": 29,
  "followers": 3,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "JavaScript",
-   1754321
+   1743355
   ],
   [
    "TypeScript",
@@ -19,11 +19,11 @@
   ],
   [
    "HTML",
-   677793
+   676626
   ],
   [
    "CSS",
-   217665
+   214064
   ],
   [
    "Python",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 11,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 12,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 13,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 14,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 15,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 16,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 17,
-    "today": false
-   }
-  ],
   [
    {
     "c": 4,
@@ -143,8 +106,21 @@
    {
     "c": 6,
     "day": 31,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -166,7 +142,7 @@
   {
    "name": "Air-draw",
    "url": "https://github.com/Panagiotissarr/Air-draw",
-   "text": "",
+   "text": "Air Draw is a real-time, computer vision-based drawing application that turns your hands into a digital canvas. Using MediaPipe and OpenCV, it tracks hand gestures to allow for free-hand drawing, geometric line baking, and intuitive tool toggling without touching a mouse or keyboard.",
    "fork": false,
    "stars": 0,
    "language": "Python",
@@ -234,15 +210,6 @@
    "topics": []
   },
   {
-   "name": "zen-proxy",
-   "url": "https://github.com/Panagiotissarr/zen-proxy",
-   "text": "Single-binary proxy so Claude Code, Codex, and OpenAI-compatible tools can use OpenCode Zen or OpenRouter models",
-   "fork": true,
-   "stars": 0,
-   "language": "Go",
-   "topics": []
-  },
-  {
    "name": "claude-code-zen-proxy",
    "url": "https://github.com/Panagiotissarr/claude-code-zen-proxy",
    "text": "Anthropic-compatible Claude Code proxy for OpenCode Zen and OpenAI-compatible chat completions models.",
@@ -252,18 +219,9 @@
    "topics": []
   },
   {
-   "name": "devtool-template",
-   "url": "https://github.com/Panagiotissarr/devtool-template",
-   "text": "Free free template for dev tools",
-   "fork": true,
-   "stars": 0,
-   "language": "HTML",
-   "topics": []
-  },
-  {
    "name": "obby-v2",
    "url": "https://github.com/Panagiotissarr/obby-v2",
-   "text": "",
+   "text": "A Port of Obsidian to the browser.",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
@@ -272,7 +230,7 @@
   {
    "name": "proxy-server",
    "url": "https://github.com/Panagiotissarr/proxy-server",
-   "text": "",
+   "text": "A Proxy Server for Browser.sarris.dev and for local machines.",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
@@ -326,7 +284,7 @@
   {
    "name": "admin-page",
    "url": "https://github.com/Panagiotissarr/admin-page",
-   "text": "",
+   "text": "My Custom Made admin page for managing my Apps.",
    "fork": false,
    "stars": 0,
    "language": "TypeScript",
@@ -335,7 +293,7 @@
   {
    "name": "lumen",
    "url": "https://github.com/Panagiotissarr/lumen",
-   "text": "",
+   "text": "Search Engine + Crawler",
    "fork": false,
    "stars": 0,
    "language": "TypeScript",
@@ -344,7 +302,7 @@
   {
    "name": "code",
    "url": "https://github.com/Panagiotissarr/code",
-   "text": "I just post stuff here",
+   "text": "Files Mostly used as like a CDN",
    "fork": false,
    "stars": 0,
    "language": "Lua",
@@ -353,7 +311,7 @@
   {
    "name": "Air-draw",
    "url": "https://github.com/Panagiotissarr/Air-draw",
-   "text": "",
+   "text": "Air Draw is a real-time, computer vision-based drawing application that turns your hands into a digital canvas. Using MediaPipe and OpenCV, it tracks hand gestures to allow for free-hand drawing, geometric line baking, and intuitive tool toggling without touching a mouse or keyboard.",
    "fork": false,
    "stars": 0,
    "language": "Python",
@@ -382,7 +340,7 @@
   {
    "name": "Gallery",
    "url": "https://github.com/Panagiotissarr/Gallery",
-   "text": "",
+   "text": "A Photo Gallery",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
@@ -391,16 +349,7 @@
   {
    "name": "explorer",
    "url": "https://github.com/Panagiotissarr/explorer",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "Terminal",
-   "url": "https://github.com/Panagiotissarr/Terminal",
-   "text": "",
+   "text": "Static web file explorer with configurable icons and generated file indexing.",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
@@ -409,7 +358,7 @@
   {
    "name": "low-end",
    "url": "https://github.com/Panagiotissarr/low-end",
-   "text": "",
+   "text": "A Lower end website of mine for older devices",
    "fork": false,
    "stars": 0,
    "language": "CSS",
@@ -436,7 +385,7 @@
   {
    "name": "startpage",
    "url": "https://github.com/Panagiotissarr/startpage",
-   "text": "",
+   "text": "My own Customized Catppuccin startpage",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
@@ -454,7 +403,7 @@
   {
    "name": "Dc-nuke-bot",
    "url": "https://github.com/Panagiotissarr/Dc-nuke-bot",
-   "text": "",
+   "text": "A DIscord Nuke Bot (For educational purposes only.)",
    "fork": false,
    "stars": 0,
    "language": "Python",
@@ -463,7 +412,7 @@
   {
    "name": "Linux-Apps",
    "url": "https://github.com/Panagiotissarr/Linux-Apps",
-   "text": "I Just Switch As to Linux Of Writing This And here Are some cool Apps By diffrent Github Repos combined together",
+   "text": "Awsome Free Linux Software",
    "fork": false,
    "stars": 0,
    "language": "Python",
@@ -472,7 +421,7 @@
   {
    "name": "Project-Cearch",
    "url": "https://github.com/Panagiotissarr/Project-Cearch",
-   "text": "",
+   "text": "Yet Another Search Engine (Not working ): )",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
