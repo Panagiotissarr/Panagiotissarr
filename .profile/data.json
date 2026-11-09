@@ -1,17 +1,13 @@
 {
- "key": "e7966d79",
+ "key": "cd9dbae5",
  "stars": 3,
- "contributions": 560,
- "repos": 27,
+ "contributions": 564,
+ "repos": 28,
  "followers": 3,
  "languages": [
   [
-   "Lua",
-   3510202
-  ],
-  [
    "JavaScript",
-   1857814
+   1857558
   ],
   [
    "TypeScript",
@@ -19,11 +15,11 @@
   ],
   [
    "HTML",
-   713817
+   713892
   ],
   [
    "CSS",
-   214064
+   213825
   ],
   [
    "Rust",
@@ -32,6 +28,10 @@
   [
    "Python",
    70507
+  ],
+  [
+   "RouterOS Script",
+   11303
   ]
  ],
  "days": [
@@ -79,7 +79,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 6,
     "day": 2,
     "today": false
    },
@@ -111,11 +111,15 @@
   ],
   [
    {
-    "c": 0,
+    "c": 2,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -124,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 5
  },
  "pins": [
@@ -190,6 +194,15 @@
     "modern-web-design",
     "website"
    ]
+  },
+  {
+   "name": "OpenCode2API",
+   "url": "https://github.com/Panagiotissarr/OpenCode2API",
+   "text": "Wrap OpenCode into an OpenAI-compatible API and use models from OpenCode Zen for free unlimitedly.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
   },
   {
    "name": "knoiren-browser",
@@ -296,7 +309,7 @@
    "text": "Files Mostly used as like a CDN",
    "fork": false,
    "stars": 0,
-   "language": "Lua",
+   "language": "HTML",
    "topics": []
   },
   {
