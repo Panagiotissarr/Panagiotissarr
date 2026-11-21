@@ -1,7 +1,7 @@
 {
- "key": "97145854",
+ "key": "46813454",
  "stars": 3,
- "contributions": 565,
+ "contributions": 567,
  "repos": 29,
  "followers": 3,
  "languages": [
@@ -136,48 +136,22 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 1,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 5
  },
- "pins": [
-  {
-   "name": "site",
-   "url": "https://github.com/Panagiotissarr/site",
-   "text": "The code of my new website! as of 2026/3/16",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": [
-    "website"
-   ]
-  },
-  {
-   "name": "Air-draw",
-   "url": "https://github.com/Panagiotissarr/Air-draw",
-   "text": "Air Draw is a real-time, computer vision-based drawing application that turns your hands into a digital canvas. Using MediaPipe and OpenCV, it tracks hand gestures to allow for free-hand drawing, geometric line baking, and intuitive tool toggling without touching a mouse or keyboard.",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "Seal-backend",
-   "url": "https://github.com/Panagiotissarr/Seal-backend",
-   "text": "Seal Bot backend — Discord bot with Express API",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": []
-  }
- ],
+ "pins": [],
  "all": [
   {
    "name": "Scanners",
